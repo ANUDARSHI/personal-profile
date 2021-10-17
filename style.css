@@ -1,0 +1,38 @@
+body{
+    
+    margin:0;
+    padding:0;
+    background-color: #1C0C5B;
+}
+.box{
+    
+    background-color: #C996CC;
+    width: 500px;
+    padding: 30px;
+    margin: auto;
+    height:700px;
+    text-align: center;
+    color: #8E0505;
+
+
+}
+.box img{
+    width : 250px;
+    height: 250px;
+    border-radius:50%;
+
+}
+.box h1{
+    font-size:50px;
+    letter-spacing:3px;
+    font-weight:100;
+
+}
+.box h4{
+    font-size:30px;
+    letter-spacing:3px;
+    font-weight:100;
+}
+.box p{
+    color:#152D35;
+}
